@@ -1,0 +1,2 @@
+class Crudexample < ApplicationRecord
+end
